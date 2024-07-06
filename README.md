@@ -8,3 +8,4 @@ Develop an AI application that can detect and recognize faces in images or video
 
 - File: https://github.com/opencv/opencv/blob/4.x/data/haarcascades/haarcascade_frontalface_default.xml
 ### Output
+![Screenshot 2024-07-06 112945](https://github.com/muthu-2005/Codsoft_Intern/assets/139162239/2e821c79-6ce5-46ad-8d11-f830af0cce13)
